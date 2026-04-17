@@ -1,0 +1,17 @@
+
+hr {border:dashed blue thick;}
+
+.h3, a {color: red;}
+
+
+
+img { border-color: red blue green yellow;
+
+        border-width: 50px;
+        border-style: solid;
+        border-radius: 9px
+}
+
+h1 {color: green;}
+
+h2{color: orangered;}
